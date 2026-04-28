@@ -75,20 +75,20 @@ used-cars-price-prediction/
 ├── GBonilla_Used_Cars_Price_Prediction_Capstone_EDA_Low_Code.ipynb
 ├── GBonilla_Used_Cars_Price_Prediction_Capstone_Preprocessing_Modeling_Low_Code.ipynb
 │
-├── GBonilla Used Cars Price Prediction Capstone Low Code Final Presentation.pdf
-├── GBonilla Used Cars Price Prediction Capstone Low Code Final Submission Report.pdf
-├── GBonilla Used Cars Price Prediction Capstone Low Code Methodology and Workflow.pdf
-└── GBonilla Used Cars Price Prediction Capstone Low Code Milestone Report.pdf
+├── GBonilla_Used_Cars_Price_Prediction_Capstone_Low_Code_Final_Presentation.pdf
+├── GBonilla_Used_Cars_Price_Prediction_Capstone_Low_Code_Final_Submission_Report.pdf
+├── GBonilla_Used_Cars_Price_Prediction_Capstone_Low_Code_Methodology_and_Workflow.pdf
+└── GBonilla_Used_Cars_Price Prediction_Capstone_Low_Code_Milestone_Report.pdf
 ```
 
 | File | Description |
 |------|-------------|
 | `...Capstone_EDA_Low_Code.ipynb` | Exploratory data analysis notebook covering data exploration, univariate/bivariate analysis, and correlation analysis |
 | `...Capstone_Preprocessing_Modeling_Low_Code.ipynb` | Feature engineering, data preprocessing, model building, evaluation, and final model selection |
-| `...Final Presentation.pdf` | Capstone project presentation slides |
-| `...Final Submission Report.pdf` | Final submission report with executive summary, recommendations, and appendix |
-| `...Methodology and Workflow.pdf` | Comprehensive methodology document detailing the end-to-end project workflow |
-| `...Milestone Report.pdf` | Full milestone report covering all phases from problem definition through conclusions |
+| `...Final_Presentation.pdf` | Capstone project presentation slides |
+| `...Final_Submission_Report.pdf` | Final submission report with executive summary, recommendations, and appendix |
+| `...Methodology_and_Workflow.pdf` | Comprehensive methodology document detailing the end-to-end project workflow |
+| `...Milestone_Report.pdf` | Full milestone report covering all phases from problem definition through conclusions |
 
 ---
 
