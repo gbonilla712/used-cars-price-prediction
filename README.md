@@ -106,7 +106,7 @@ used-cars-price-prediction/
 
 ## Milestone Report 
 
-The milestone report (`GBonilla Used Cars Price Prediction Capstone Low Code Milestone Report.pdf`) provides the full analytical narrative across all project phases:
+The milestone report (`GBonilla_Used_Cars_Price_Prediction_Capstone_Low_Code_Milestone_Report.pdf`) provides the full analytical narrative across all project phases:
 - Executive Summary
 - Business Problem Overview and Solution Approach
 - Problem Definition
@@ -121,7 +121,7 @@ The milestone report (`GBonilla Used Cars Price Prediction Capstone Low Code Mil
 
 ### Final Submission Report
 
-The final submission report (`GBonilla Used Cars Price Prediction Capstone Low Code Final Submission Report.pdf`) delivers a consolidated, decision-ready summary:
+The final submission report (`GBonilla_Used_Cars_Price_Prediction_Capstone_Low_Code_Final_Submission_Report.pdf`) delivers a consolidated, decision-ready summary:
 - Executive Summary
 - Problem and Solution Summary
 - Recommendations for Implementation
